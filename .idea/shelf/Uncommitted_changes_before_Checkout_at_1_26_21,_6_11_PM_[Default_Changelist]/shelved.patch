@@ -1,0 +1,45 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"485120ec-046d-4026-862b-bab72f975a7f\" name=\"Default Changelist\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1nZy3ggZGnhuysSDRHTrBKfAmMc\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"index.html\" type=\"JavascriptDebugType\" temporary=\"true\" nameIsGenerated=\"true\" uri=\"http://localhost:63342/unitedfamilyhomes/index.html\" useBuiltInWebServerPort=\"true\">\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"JavaScript Debug.index.html\" />\n        <item itemvalue=\"JavaScript Debug.index.html\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"485120ec-046d-4026-862b-bab72f975a7f\" name=\"Default Changelist\" comment=\"\" />\n      <created>1611611710011</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1611611710011</updated>\n      <workItem from=\"1611611711960\" duration=\"1213000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"adding required documents\">\n      <created>1611611837035</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1611611837035</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"changed the entire folder\">\n      <created>1611671963208</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1611671963208</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"adding required documents\" />\n    <MESSAGE value=\"changed the entire folder\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"changed the entire folder\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f398a1fb9ba67fddcc4405e8e0541e7fe4c32185)
++++ b/.idea/workspace.xml	(date 1611702307451)
+@@ -1,7 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="485120ec-046d-4026-862b-bab72f975a7f" name="Default Changelist" comment="" />
++    <list default="true" id="485120ec-046d-4026-862b-bab72f975a7f" name="Default Changelist" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -10,7 +12,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="main" />
++        <entry key="$PROJECT_DIR$" value="Develop" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -81,10 +83,12 @@
+         </entry>
+       </map>
+     </option>
++    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="adding required documents" />
+     <MESSAGE value="changed the entire folder" />
+-    <option name="LAST_COMMIT_MESSAGE" value="changed the entire folder" />
++    <MESSAGE value="Merge branch 'Develop' of https://github.com/automatedcashiertech3/unitedfamilyhomes into Develop&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
++    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'Develop' of https://github.com/automatedcashiertech3/unitedfamilyhomes into Develop&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
+   </component>
+ </project>
+\ No newline at end of file
