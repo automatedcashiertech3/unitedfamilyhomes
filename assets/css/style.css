@@ -1012,6 +1012,7 @@ section {
   overflow: hidden;
   z-index: 1;
   background: rgba(34, 34, 34, 0.6);
+
 }
 
 .portfolio .portfolio-wrap::before {
@@ -1029,6 +1030,9 @@ section {
 
 .portfolio .portfolio-wrap img {
   transition: all ease-in-out 0.3s;
+  width: 800px;
+  height: 310px;
+  object-fit: cover;
 }
 
 .portfolio .portfolio-wrap .portfolio-info {
@@ -1085,6 +1089,7 @@ section {
 
 .portfolio .portfolio-wrap:hover img {
   transform: scale(1.2);
+
 }
 
 .portfolio .portfolio-wrap:hover .portfolio-info {
