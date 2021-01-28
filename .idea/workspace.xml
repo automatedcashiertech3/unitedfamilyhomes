@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="485120ec-046d-4026-862b-bab72f975a7f" name="Default Changelist" comment="">
+    <list default="true" id="485120ec-046d-4026-862b-bab72f975a7f" name="Default Changelist" comment="changed the entire folder">
+      <change afterPath="$PROJECT_DIR$/assets/img/clients/ShivMandir_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/clients/ShridiSaiLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/clients/ediblearrangements.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/ediblearrangements.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/lasertag.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_1_26_21__6_11_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_1_26_21__6_11_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/nilgiris.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/nilgiris.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/walther.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/walther.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commercial.html" beforeDir="false" afterPath="$PROJECT_DIR$/commercial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/residential.html" beforeDir="false" afterPath="$PROJECT_DIR$/residential.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -19,24 +38,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nZy3ggZGnhuysSDRHTrBKfAmMc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Kemnu - new/Websites/KemNuSite" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -45,6 +69,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -60,6 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1611611710011</updated>
       <workItem from="1611611711960" duration="1213000" />
+      <workItem from="1611727005378" duration="5084000" />
+      <workItem from="1611801558275" duration="14941000" />
     </task>
     <task id="LOCAL-00001" summary="adding required documents">
       <created>1611611837035</created>
@@ -96,7 +124,49 @@
       <option name="project" value="LOCAL" />
       <updated>1611702367118</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changed the entire folder">
+      <created>1611715791693</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611715791693</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changed the entire folder">
+      <created>1611722295877</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611722295877</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changed the entire folder">
+      <created>1611797790185</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611797790185</updated>
+    </task>
+    <task id="LOCAL-00009" summary="changed the entire folder">
+      <created>1611805554255</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611805554255</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changed the entire folder">
+      <created>1611808303255</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611808303255</updated>
+    </task>
+    <task id="LOCAL-00011" summary="changed the entire folder">
+      <created>1611875221367</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611875221367</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +185,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="adding required documents" />
     <MESSAGE value="changed the entire folder" />
     <option name="LAST_COMMIT_MESSAGE" value="changed the entire folder" />
