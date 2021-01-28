@@ -1636,3 +1636,9 @@ section {
 #footer .footer-links a:hover {
   color: #3498db;
 }
+
+.design-img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
