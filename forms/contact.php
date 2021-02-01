@@ -37,8 +37,8 @@
   $contact->add_message( $_POST['email'], 'Email');
   $contact->add_message( $_POST['message'], 'Message', 10);
 
-  $contact->recaptcha_secret_key = '6LeYg0AaAAAAAFnCXvjrh8cgxfLX6ceLrbNS1mxJ';
-//   $contact->recaptcha_secret_key = '6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe';
+//   $contact->recaptcha_secret_key = '6LeYg0AaAAAAAFnCXvjrh8cgxfLX6ceLrbNS1mxJ';
+  $contact->recaptcha_secret_key = '6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe';
 
   echo $contact->send();
 ?>
