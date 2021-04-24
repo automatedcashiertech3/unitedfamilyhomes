@@ -1,32 +1,371 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="485120ec-046d-4026-862b-bab72f975a7f" name="Default Changelist" comment="changed the entire folder">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_1_26_21,_6_11_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_1_26_21__6_11_PM__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_1_28_2021_11_44_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_1_28_2021_11_44_PM__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2021_6_50_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2021_6_50_PM__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
+    <list default="true" id="485120ec-046d-4026-862b-bab72f975a7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/2862 Lenox Rd NE, Atlanta, GA 30324  V4 new.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Creekview At Lenox/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/CreekviewAtLenox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/United Family Homes_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creekviewatlenox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sevennorcross.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/more-services-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/more-services-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/more-services-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/more-services-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/testimonials/testimonials-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/testimonials/testimonials-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/testimonials/testimonials-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/testimonials/testimonials-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/testimonials/testimonials-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/counts-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/hero-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/illustration-6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Additional Porjects pictures_where you think good/400 Findley way, Johns creek GA 30097.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/ThePreserveAtJohnsCreek/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Additional Porjects pictures_where you think good/DSC00008.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/ThePreserveAtJohnsCreek/4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Additional Porjects pictures_where you think good/DSC_0201.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/ThePreserveAtJohnsCreek/1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Additional Porjects pictures_where you think good/IMG_6386.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/ThePreserveAtJohnsCreek/5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Additional Porjects pictures_where you think good/IMG_6389.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Additional Porjects pictures_where you think good/IMG_6390.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/ThePreserveAtJohnsCreek/6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Additional Porjects pictures_where you think good/IMG_6391.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/ThePreserveAtJohnsCreek/7.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Additional Porjects pictures_where you think good/IMG_6400.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/ThePreserveAtJohnsCreek/8.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Additional Porjects pictures_where you think good/IMG_6401.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Additional Porjects pictures_where you think good/IMG_6402.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Additional Porjects pictures_where you think good/The Preserve At Johns Creek GA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/ThePreserveAtJohnsCreek/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184333Z-001/High Res/732 Lenox Ln - 50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/High Res-20210204T184347Z-001/High Res/740 Lenox Ln - 47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/6.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Porject 1/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-1/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Project 2/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-2/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Project 2/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-2/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Project 2/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-2/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Project 2/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-2/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Project 2/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-2/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Project 2/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-2/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Project 2/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-2/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Project 2/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-2/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Project 2/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-2/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Project 2/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-2/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Project 2/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-2/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Lenox Projects/Lenox Project 2/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/Lenox-Projects/Lenox-Project-2/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 08.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/09.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 34.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 34.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 35.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 35.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 39.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 43.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 44.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 44.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 46.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 47.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 48.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 48.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 49.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 49.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-732 Lenox lane/MLS/732 Lenox Ln - 50.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/732-Lenox-lane/MLS/732 Lenox Ln - 50.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 08.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 09.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 34.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 34.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 35.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 35.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 39.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 43.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 44.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 44.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 46.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/MLS-740 Lenox lane/MLS/740 Lenox Ln - 47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/740-Lenox-lane/MLS/740 Lenox Ln - 47.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Olde_Towne_Village.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/The Preserve at Johns Creek/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/The Preserve at Johns Creek/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/The Preserve at Johns Creek/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/The Preserve at Johns Creek/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/The Preserve at Johns Creek/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/The Preserve at Johns Creek/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6076 Cushing Circle - Sabrina Samuel Photography-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6076 Cushing Circle - Sabrina Samuel Photography-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6076 Cushing Circle - Sabrina Samuel Photography-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6076 Cushing Circle - Sabrina Samuel Photography-16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6076 Cushing Circle - Sabrina Samuel Photography-17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6076 Cushing Circle - Sabrina Samuel Photography-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6076 Cushing Circle - Sabrina Samuel Photography-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6076 Cushing Circle - Sabrina Samuel Photography-35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6076 Cushing Circle - Sabrina Samuel Photography-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6584412_11_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6584412_19_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6584412_23_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6584412_27_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6584412_32_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6584412_6_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/6584412_8_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/About 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/About 3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/About 4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/About.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Design 5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Design.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Design1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Design2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Design3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Design4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Home page 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Home page 3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Home page 4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Home page 5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Home page 6 (4).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Home page 6 (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Home page 7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/Home page1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/design 6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/Use any of these pictures for _Home , About &amp; Design Center pages/home page 8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commercial.html" beforeDir="false" afterPath="$PROJECT_DIR$/commercial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-center.html" beforeDir="false" afterPath="$PROJECT_DIR$/design-center.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faqs.html" beforeDir="false" afterPath="$PROJECT_DIR$/faqs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lenoxHomeOne.html" beforeDir="false" afterPath="$PROJECT_DIR$/lenoxHomeOne.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lenoxHomeTwo.html" beforeDir="false" afterPath="$PROJECT_DIR$/lenoxHomeTwo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldetownevillage.html" beforeDir="false" afterPath="$PROJECT_DIR$/oldetownevillage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/residential.html" beforeDir="false" afterPath="$PROJECT_DIR$/residential.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saiBabaPriests.html" beforeDir="false" afterPath="$PROJECT_DIR$/saiBabaPriests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stmarlo.html" beforeDir="false" afterPath="$PROJECT_DIR$/stmarlo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thepreserveatjohnscreek.html" beforeDir="false" afterPath="$PROJECT_DIR$/thepreserveatjohnscreek.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +426,7 @@
       <recent name="C:\Users\17707\Desktop\Iron 3 Consulting\Client Git Websites\unitedfamilyhomes\assets\vendor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\17707\Desktop\Iron 3 Consulting\Client Git Websites\unitedfamilyhomes" />
       <recent name="C:\Users\17707\Desktop\Iron 3 Consulting\Client Git Websites\unitedfamilyhomes\assets\img\portfolio" />
     </key>
   </component>
@@ -118,7 +458,7 @@
       <workItem from="1613193178597" duration="640000" />
       <workItem from="1618867782570" duration="2246000" />
       <workItem from="1619148682066" duration="244000" />
-      <workItem from="1619148970413" duration="8500000" />
+      <workItem from="1619148970413" duration="15315000" />
     </task>
     <task id="LOCAL-00001" summary="adding required documents">
       <created>1611611837035</created>
@@ -211,7 +551,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612189213085</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="changed the entire folder">
+      <created>1619231963169</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1619231963169</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
