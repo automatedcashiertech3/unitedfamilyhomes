@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="485120ec-046d-4026-862b-bab72f975a7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/thepreserveatjohnscreek.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/2862 Lenox Rd NE, Atlanta, GA 30324  V4 new.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/MedlockBridge/Medlock Bridge project (1).jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clients/ShivMandir_logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/clients/ShivMandir_logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clients/ShridiSaiLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/clients/ShridiSaiLogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clients/thereserveatjohnscreek.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/design_p1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/design_p2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/design_p3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commercial.html" beforeDir="false" afterPath="$PROJECT_DIR$/commercial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/php-email-form/php-email-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/php-email-form/php-email-form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creekviewatlenox.html" beforeDir="false" afterPath="$PROJECT_DIR$/creekviewatlenox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/forms/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldetownevillage.html" beforeDir="false" afterPath="$PROJECT_DIR$/oldetownevillage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/residential.html" beforeDir="false" afterPath="$PROJECT_DIR$/residential.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sevennorcross.html" beforeDir="false" afterPath="$PROJECT_DIR$/sevennorcross.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stmarlo.html" beforeDir="false" afterPath="$PROJECT_DIR$/stmarlo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thepreserveatjohnscreek.html" beforeDir="false" afterPath="$PROJECT_DIR$/thepreserveatjohnscreek.html" afterDir="false" />
     </list>
@@ -69,7 +60,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/vendor/php-email-form" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,6 +72,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\17707\Desktop\Iron 3 Consulting\Client Git Websites\unitedfamilyhomes\assets\vendor\php-email-form" />
+      <recent name="C:\Users\17707\Desktop\Iron 3 Consulting\Client Git Websites\unitedfamilyhomes\forms" />
       <recent name="C:\Users\17707\Desktop\Iron 3 Consulting\Client Git Websites\unitedfamilyhomes\assets\vendor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -118,7 +111,7 @@
       <workItem from="1619148682066" duration="244000" />
       <workItem from="1619148970413" duration="15914000" />
       <workItem from="1619575958927" duration="2688000" />
-      <workItem from="1619740473912" duration="4175000" />
+      <workItem from="1619740473912" duration="6751000" />
     </task>
     <task id="LOCAL-00001" summary="adding required documents">
       <created>1611611837035</created>
@@ -225,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619238793143</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="changed the entire folder">
+      <created>1619746054618</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1619746054618</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
