@@ -25,6 +25,10 @@
     <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
     <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
@@ -36,42 +40,31 @@
 <!-- ======= Header ======= -->
 <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center">
+        <a href="index.html" class="logo "><img src="assets/img/ufhomeslogo.png" alt=""></a>
+        <!--    <h1 class="logo me-auto"><a href="index.html">United Family Homes</a></h1>-->
 
-        <div class="logo me-auto">
-            <h5 class="text-light">
-                <a href="index.html">
-            <span>
-              <img src="assets/img/logo.png" alt="" class="img-fluid">
-              United Family Homes
-            </span>
-                </a>
-            </h5>
-            <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-        </div>
-
-        <nav class="nav-menu d-none d-lg-block">
+        <nav id="navbar" class="navbar">
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li class="active"><a href="residential.html">Residential</a></li>
-                <li><a href="commercial.html">Commercial</a></li>
-<!--                <li><a href="portfolio.html">Portfolio</a></li>-->
-                <li><a href="design-center.html">Design Center</a></li>
-                <li class="get-started"><a href="contact.html">Contact Us</a></li>
+                <li><a class="nav-link scrollto" href="index.html">Home</a></li>
+                <li><a class="nav-link scrollto" href="about.html">About</a></li>
+                <li><a class="nav-link scrollto active" href="residential.html">Residential</a></li>
+                <li><a class="nav-link scrollto" href="commercial.html">Commercial</a></li>
+                <li><a class="nav-link scrollto" href="design-center.html">Design Center</a></li>
+                <li><a href="contact.html" class="getstarted">Contact Us</a></li>
             </ul>
-        </nav><!-- .nav-menu -->
+            <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav><!-- .navbar -->
 
     </div>
-</header>
+</header><!-- End Header -->
 
 <section id="portfolio" class="portfolio">
     <div class="container">
 
         <br><br><br>
         <div class="section-title" data-aos="fade-up">
-            <h2>Residential Properties</h2>
-            <p>Below are a list of our residential properties.</p>
+            <h2>Residential Projects</h2>
+            <p>Below are a list of our residential projects.</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="200">
@@ -79,36 +72,22 @@
                 <ul id="portfolio-flters">
                     <li data-filter="*" class="filter-active">All</li>
                     <li data-filter=".filter-completed">Completed Projects</li>
-                    <li data-filter=".filter-coming">Coming Soon</li>
+                    <li data-filter=".filter-ongoingprojects">Ongoing Projects</li>
                 </ul>
             </div>
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="400">
 
-<!--            <div class="col-lg-4 col-md-6 portfolio-item filter-completed">-->
-<!--                <div class="portfolio-wrap">-->
-<!--                    <img src="assets/img/portfolio/creekviewatlenox.png" class="img-fluid" alt="" ">-->
-<!--                    <div class="portfolio-info">-->
-<!--                        <h4>Creekview at Lenox</h4>-->
-<!--                        <p>Fulton, GA</p>-->
-<!--                        <div class="portfolio-links">-->
-<!--                            <a href="assets/img/portfolio/creekviewatlenox.png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-zoom-in"></i></a>-->
-<!--                            <a href="lenoxHomeOne.html" title="More Details"><i class="bx bx-link"></i></a> -->
-<!--                            </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-
             <div class="col-lg-4 col-md-6 portfolio-item filter-completed">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/Lenox%20Projects/Lenox%20Porject%201/6.jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/Lenox-Projects/Lenox-Project-2/1.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Lenox Home 1</h4>
+                        <h4>Creekview at Lenox Phase 1</h4>
                         <p>Click link to see more</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/Lenox%20Projects/Lenox%20Porject%201/6.jpeg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-zoom-in"></i></a>
-                            <a href="lenoxHomeOne.html" title="More Details"><i class="bx bx-link"></i></a>
+                            <a href="assets/img/portfolio/Lenox-Projects/Lenox-Project-2/1.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-zoom-in"></i></a>
+                            <a href="creekviewatlenoxphaseone.html" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
                 </div>
@@ -116,18 +95,33 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-completed">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/Lenox%20Projects/Lenox%20Project%202/1.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/Lenox-Projects/Lenox-Project-1/6.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Lenox Home 2</h4>
+                        <h4>Creekview at Lenox Phase 2</h4>
                         <p>Click link to see more</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/Lenox%20Projects/Lenox%20Project%202/1.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-zoom-in"></i></a>
-                            <a href="lenoxHomeTwo.html" title="More Details"><i class="bx bx-link"></i></a>
+                            <a href="assets/img/portfolio/Lenox-Projects/Lenox-Project-1/6.jpeg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-zoom-in"></i></a>
+                            <a href="creekviewatlenoxphase2.html" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
 
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ongoingprojects">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/Brixton Buckhead/1.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Brixton Buckhead</h4>
+                        <p>Atlanta, GA</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/portfolio/Brixton Buckhead/1.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-zoom-in"></i></a>
+                            <a href="brixtonbuckhead.html" title="More Details"><i class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
             <div class="col-lg-4 col-md-6 portfolio-item filter-completed">
                 <div class="portfolio-wrap">
                     <img src="assets/img/portfolio/johnscreekhome.jpg" class="img-fluid" alt="">
@@ -156,29 +150,29 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-coming">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ongoingprojects">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/bethelview.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/Creekview At Lenox/2.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Luxury 16 Single Family Homes</h4>
-                        <p>Bethelview, GA</p>
+                        <h4>Seven Norcross Exterior</h4>
+                        <p>Atlanta, GA</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/bethelview.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-zoom-in"></i></a>
-<!--                            <a href="oldetownevillage.html" title="More Details"><i class="bx bx-link"></i></a>-->
+                            <a href="assets/img/portfolio/Creekview At Lenox/2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-zoom-in"></i></a>
+                            <a href="sevennorcrossexterior.html" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ongoingprojects">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/oldtownehomes.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/Seven%20Norcross%20Model%20Home/8.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Olde Towne Village</h4>
-                        <p>Duluth, GA</p>
+                        <h4>Seven Norcross Interior</h4>
+                        <p>Norcross, GA</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/oldtownehomes.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-zoom-in"></i></a>
-                            <a href="oldetownevillage.html" title="More Details"><i class="bx bx-link"></i></a>
+                            <a href="assets/img/portfolio/Seven%20Norcross%20Model%20Home/8.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-zoom-in"></i></a>
+                            <a href="sevennorcross.html" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
                 </div>
@@ -186,33 +180,19 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-completed">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/medlock.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/MedlockBridge/Medlock%20Bridge%20project%20(1).jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Medlock Bridge</h4>
-                        <p>Johns Creek, GA</p>
+                        <p>1 Single Family Home</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/medlock.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-zoom-in"></i></a>
+                            <a href="assets/img/portfolio/MedlockBridge/Medlock%20Bridge%20project%20(1).jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-zoom-in"></i></a>
+<!--                            <a href="sevennorcross.html" title="More Details"><i class="bx bx-link"></i></a>-->
                         </div>
                     </div>
                 </div>
             </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-coming">
-                <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/Norcross%20wc_113-119%20Front%20Elevation.jpg" class="img-fluid" alt="">
-                    <div class="portfolio-info">
-                        <h4>Norcross Townhomes</h4>
-                        <p>Norcross, GA</p>
-                        <div class="portfolio-links">
-                            <a href="assets/img/portfolio/Norcross%20wc_113-119%20Front%20Elevation.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-zoom-in"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
 
         </div>
-
     </div>
 
     </div>
